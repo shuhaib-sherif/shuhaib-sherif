@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently completing my BTECH in CSE from SRM IST
-- 🥅 2021 Goals: To land a good internship and polish my coding skills
+- 🥅 2022 Goals: To land a good placement in a super dream company
 - ⚡ Fun fact: I love to play guitar / basketball
 
 
