@@ -4,8 +4,8 @@
 
 
 - 🌱 I’m currently completing my BTECH in CSE from SRM IST
-- 🥅 2022 Goals: To land a good placement in a super dream company
-- ⚡ Fun fact: I love to play guitar / basketball
+- 🥅 2023 Goals: To give my best everyday and make the most out of it
+- ⚡ Fun fact: I love to play guitar / basketball and watch anime.
 
 
 ### Connect with me:
