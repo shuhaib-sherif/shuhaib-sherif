@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shuhaib Sherif</h1>
-<h3 align="center">REACT Developer || DEEP Learning || Competitive Coding</h3>
+<h3 align="center">REACT Developer || DATA Engineering || DEEP Learning || Competitive Coding</h3>
 
 
 
